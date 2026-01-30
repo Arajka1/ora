@@ -1,19 +1,13 @@
 [build]
   base = "shop-demo"
-  command = "npm run build && npm run export"
+  command = "cd shop-demo && npm ci && npm run build && npm run export"
   publish = "shop-demo/out"
   functions = "shop-demo/netlify/functions"
+
+[build.environment]
+  NODE_OPTIONS = "--max_old_space_size=4096"
 
 [context.production.environment]
   NODE_VERSION = "18"
   NEXT_TELEMETRY_DISABLED = "1"
   NEXT_PUBLIC_SITE_URL = "https://oradore.netlify.app"
-
-# Explicit build to force static export
-[build.environment]
-  NODE_OPTIONS = "--max_old_space_size=4096"
-
-[build]
-  command = "cd shop-demo && npm ci && npm run build && npm run export"
-  publish = "shop-demo/out"
-  functions = "shop-demo/netlify/functions"
