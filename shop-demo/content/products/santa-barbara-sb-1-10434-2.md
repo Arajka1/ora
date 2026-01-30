@@ -1,0 +1,32 @@
+---
+title: "SANTA BARBARA POLO SB.1.10434.2"
+slug: "santa-barbara-sb-1-10434-2"
+price: 89.99
+currency: "EUR"
+brand: "Santa Barbara Polo"
+mechanism: "Japanese Miyota, Quartz"
+features:
+  - "Time"
+  - "Date"
+strap_material: "Leather"
+glass_material: "Mineral"
+case_size: "40 mm"
+water_resistance: "5 ATM"
+warranty: "2 years"
+categories:
+  - "Men"
+colors:
+  - "Black"
+images:
+  - "/products/SANTABARBARAPOLOSB.1.10434.2_1200x1200.jpg"
+excerpt: "Classic Santa Barbara Polo men's watch with Japanese Miyota quartz movement, 40 mm case and 5 ATM water resistance."
+seo_title: "Santa Barbara Polo SB.1.10434.2 - Men's Leather Watch"
+seo_description: "Shop the Santa Barbara Polo SB.1.10434.2: Japanese Miyota quartz, 40 mm case, leather strap, 5 ATM water resistance, 2-year warranty."
+---
+
+A classic, elegant men's watch from Santa Barbara Polo. The SB.1.10434.2 features a reliable Japanese Miyota quartz movement, a 40 mm case, and a genuine leather strap—perfect for everyday wear and special occasions.
+
+- Movement: Japanese Miyota, Quartz
+- Case size: 40 mm
+- Water resistance: 5 ATM
+- Warranty: 2 years
