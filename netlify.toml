@@ -1,6 +1,6 @@
 [build]
   base = "shop-demo"
-  command = "npm ci && npm run build && npm run export"
+  command = "npm install && npm run build && npm run export"
   publish = "out"
   functions = "netlify/functions"
 
