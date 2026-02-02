@@ -18,6 +18,8 @@ A minimal demo of a watch shop using Next.js + Tailwind + Netlify CMS (git-backe
 
 3. Netlify CMS: Deploy to Netlify and enable Identity + Git Gateway (or use GitHub OAuth). The CMS will be available at `/admin`.
 
+   **📖 For detailed admin setup instructions, see: [../ADMIN_SETUP.md](../ADMIN_SETUP.md)**
+
 ## Notes
 
 - Product content lives in `content/products/*.md` and uses frontmatter fields.
